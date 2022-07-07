@@ -84,3 +84,21 @@ a {
 .code-link {
   font-size: 14px;
 }
+
+.weather-forecast {
+  margin-top: 20;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.weather-forecast-temperatures {
+  font-size: 13px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.5;
+}
